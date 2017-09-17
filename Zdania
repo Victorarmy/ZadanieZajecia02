@@ -1,0 +1,9 @@
+Klasa to szablon do tworzenia nowych obiektów, pozwalający na tworzenie bardziej złożonych typów danych.
+Obiekt to instancja klasy, i jest tworzony na podstawie klasy.
+Zmienna to kontener dla określonych typów danych, przechowywujący konkretne ich wartości.
+Każda zmienna musi mieć określony typ.
+W klasie mogą się znajdować zmienne (w tym również obiektowe), metody i konstruktory.
+Konstruktory są wywoływane prez operator "new" i służą do tworzenia nowych obiektów.
+Jeśli w klasie zdefiniowano chociaż jeden konstruktor to kompilator nie wygreneruje dla nas konstruktora domyśłnego.
+[...] car1 nazywamy zmienną/referencją.
+[...] car1 i car2 to dwie referencje wskazujące na ten sam obiekt.
